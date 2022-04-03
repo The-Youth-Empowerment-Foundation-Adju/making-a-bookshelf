@@ -6,6 +6,7 @@ A bookshelf is a piece of furniture with horizontal shelves used to store books 
 ![](images/bookself-pic3.jpg)
 ![](images/bookself-pic4.jpg)
 Bookshelves are used in libraries,offices,homes,public universities and book stores.
+![](images/bookself-pic5.jpg)
  # Aims/Objectives
 1.To store books and files containing reports of the activities excuted by the organisation.These includes;
 - Accounting information
